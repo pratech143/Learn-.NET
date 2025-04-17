@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4gcnWKvyB8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\VideoGameAPi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\scalar.aspnetcore\\2.1.16\\scalar.aspnetcore.2.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
