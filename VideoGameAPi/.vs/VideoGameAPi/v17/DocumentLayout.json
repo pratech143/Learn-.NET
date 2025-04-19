@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\data\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:data\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Migrations\\20250418140420_Seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250418140420_Seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Migrations\\20250418134847_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250418134847_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\videogameapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:videogameapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\videogameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:videogameapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|c:\\users\\dell\\desktop\\.net learning folder\\learn-.net\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A4DD70E-8B81-8CC4-7E1A-FEA2F174D1A9}|VideoGameAPi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +50,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-17T08:51:31.34Z"
+              "DocumentIndex": 0,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "Controllers\\VideoGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:50:09.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250418140420_Seeding.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Migrations\\20250418140420_Seeding.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418140420_Seeding.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Migrations\\20250418140420_Seeding.cs",
+              "RelativeToolTip": "Migrations\\20250418140420_Seeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:04:21.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T08:51:31.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoGameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Data\\VideoGameDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\VideoGameDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Data\\VideoGameDbContext.cs",
+              "RelativeToolTip": "Data\\VideoGameDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:09:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T13:14:33.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250418134847_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Migrations\\20250418134847_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418134847_Initial.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Migrations\\20250418134847_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250418134847_Initial.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:48:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoGameAPi.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\VideoGameAPi.csproj",
+              "RelativeDocumentMoniker": "VideoGameAPi.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\VideoGameAPi.csproj",
+              "RelativeToolTip": "VideoGameAPi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T13:00:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:50:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "VideoGameAPi.http",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\VideoGameAPi.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\VideoGameAPi.http",
               "RelativeDocumentMoniker": "VideoGameAPi.http",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\VideoGameAPi.http",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\VideoGameAPi.http",
               "RelativeToolTip": "VideoGameAPi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -58,40 +169,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "VideoGameApi.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\VideoGameApi.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\VideoGameApi.cs",
               "RelativeDocumentMoniker": "VideoGameApi.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\VideoGameApi.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameAPi\\VideoGameApi.cs",
               "RelativeToolTip": "VideoGameApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T08:50:13.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VideoGameController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\Controllers\\VideoGameController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VideoGameController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\Controllers\\VideoGameController.cs",
-              "RelativeToolTip": "Controllers\\VideoGameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T08:50:09.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.NET learning folder\\Learn-.NET\\VideoGameApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T08:50:00.084Z"
             }
           ]
         }
